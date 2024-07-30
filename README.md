@@ -1,5 +1,5 @@
 ## Credit-Card-Analysis
-##Project Objective
+## Project Objective
 To develop a comprehensive creditcard weekly dashboard that provides real-time insights into key performance metrics and trends,enabling stakeholders to monitorand analyze credit card operations effectively.
 
 ## Insights of the Dashboard:
