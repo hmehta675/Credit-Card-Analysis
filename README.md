@@ -1,4 +1,4 @@
-# Credit-Card-Analysis
+## Credit-Card-Analysis
 ##Project Objective
 To develop a comprehensive creditcard weekly dashboard that provides real-time insights into key performance metrics and trends,enabling stakeholders to monitorand analyze credit card operations effectively.
 
@@ -15,7 +15,7 @@ Shared actionable insights with stakeholders based
 on dashboard findings to support decision-making
 processes.
 
-##DAX 
+## DAX 
 
 AgeGroup = SWITCH(
 TRUE(),
