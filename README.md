@@ -4,11 +4,13 @@ To develop a comprehensive creditcard weekly dashboard thatprovides real-time in
 
 ## Insights of the Dashboard:
 
-• Developed an interactive dashboard using
+Developed an interactive dashboard using
 transaction and customer data from a SQL database,
 to provide real-time insights.
-• Streamlined data processing & analysis to monitor
+
+Streamlined data processing & analysis to monitor
 key performance metrics and trends.
-• Shared actionable insights with stakeholders based
+
+Shared actionable insights with stakeholders based
 on dashboard findings to support decision-making
 processes.
